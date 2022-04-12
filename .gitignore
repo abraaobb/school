@@ -1,0 +1,8 @@
+
+.idea/
+
+basic/__pycache__/
+
+db.sqlite3
+
+school/__pycache__/
